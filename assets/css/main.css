@@ -1,0 +1,60 @@
+body, html{
+    /* font-size: 16px; */
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    margin-top: 50px;
+}
+
+/* For Login area */
+.login-header{
+    padding: 70px 0;
+    text-align: center;
+}
+.submit-area{
+    padding: 50px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+.submit-area .submit-place{
+    margin: 20px 0;
+}
+.btnn{
+    padding: 5px 40px;
+    letter-spacing: 3px;
+}
+
+/* For Bank Status Area */
+#bank-balance-status{
+    padding: 70px 0;
+}
+.bank-status{
+    padding: 0 50px;
+}
+.status{
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: blueviolet;
+}
+.withdraw{
+    background-color: tomato;
+}
+.Balance{
+    background-color: goldenrod;
+}
+
+/* xxxxx */
+.input-filed{
+    padding: 30px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+#bank-balance-status{
+    display: none;
+}
+
